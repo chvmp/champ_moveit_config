@@ -1,0 +1,8 @@
+controller_list:
+  - name: fake_champ_arm_controller
+    joints:
+      - base_joint
+      - lower_arm_joint
+      - upper_arm_joint
+      - wrist1_joint
+      - wrist2_joint
